@@ -1,0 +1,10 @@
+D:\Haui\extra semester 6\xml technology\online\xml with c#\Sinh vien\sinhvien\congty\bin\Debug\congty.exe.config
+D:\Haui\extra semester 6\xml technology\online\xml with c#\Sinh vien\sinhvien\congty\bin\Debug\congty.exe
+D:\Haui\extra semester 6\xml technology\online\xml with c#\Sinh vien\sinhvien\congty\bin\Debug\congty.pdb
+D:\Haui\extra semester 6\xml technology\online\xml with c#\Sinh vien\sinhvien\congty\obj\Debug\congty.csprojAssemblyReference.cache
+D:\Haui\extra semester 6\xml technology\online\xml with c#\Sinh vien\sinhvien\congty\obj\Debug\congty.Form1.resources
+D:\Haui\extra semester 6\xml technology\online\xml with c#\Sinh vien\sinhvien\congty\obj\Debug\congty.Properties.Resources.resources
+D:\Haui\extra semester 6\xml technology\online\xml with c#\Sinh vien\sinhvien\congty\obj\Debug\congty.csproj.GenerateResource.cache
+D:\Haui\extra semester 6\xml technology\online\xml with c#\Sinh vien\sinhvien\congty\obj\Debug\congty.csproj.CoreCompileInputs.cache
+D:\Haui\extra semester 6\xml technology\online\xml with c#\Sinh vien\sinhvien\congty\obj\Debug\congty.exe
+D:\Haui\extra semester 6\xml technology\online\xml with c#\Sinh vien\sinhvien\congty\obj\Debug\congty.pdb

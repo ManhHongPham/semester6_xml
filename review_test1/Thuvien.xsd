@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<xs:schema version="1.0"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           elementFormDefault="qualified">
+    <xs:complexType name="sach">
+        <xs:sequence>
+            <xs:element name="tensach">
+                <xs:simpleType>
+                    <xs:restriction base="xs:string"/>
+                </xs:simpleType>
+            </xs:element>
+            <xs:element name="theloai">
+                <xs:simpleType>
+                    <xs:restriction base="xs:string"/>
+                </xs:simpleType>
+            </xs:element>
+        </xs:sequence>
+        
+        <xs:attribute name="masach">
+            <xs:simpleType>
+                <xs:restriction base="xs:ID"></xs:restriction>
+            </xs:simpleType>
+        </xs:attribute>
+        <xs:attribute name="sotrang">
+            <xs:simpleType>
+                <xs:restriction base="xs:string">
+                    <xs:maxLength value="7"/>
+                </xs:restriction>
+            </xs:simpleType>
+        </xs:attribute>
+    </xs:complexType>
+    
+    <xs:complexType name="nhaxuatban">
+        <xs:sequence>
+            <xs:element name="tennhaxuatban">
+                <xs:simpleType>
+                    <xs:restriction base="xs:string">
+                        <xs:enumeration value="kim đồng"/>
+                        <xs:enumeration value="giáo dục"/>
+                        <xs:enumeration value="khoa học xã hội"/>
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:element>
+            
+            <xs:element name="sach" type="sach" minOccurs="1" maxOccurs="unbounded"/>
+        </xs:sequence>
+        
+        <xs:attribute name="MaNXB">
+            <xs:simpleType>
+                <xs:restriction base="xs:ID"/>
+            </xs:simpleType>
+        </xs:attribute>
+    </xs:complexType>
+    
+    <xs:complexType name="TV">
+        <xs:sequence>
+            <xs:element name="nhaxuatban" type="nhaxuatban" minOccurs="1" maxOccurs="unbounded"/>
+        </xs:sequence>
+        <xs:attribute name="TenTV">
+            <xs:simpleType>
+                <xs:restriction base="xs:string"/>
+            </xs:simpleType>
+        </xs:attribute>
+    </xs:complexType>
+    
+    <xs:element name="DS">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="TV" type="TV" minOccurs="1" maxOccurs="unbounded"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+</xs:schema>

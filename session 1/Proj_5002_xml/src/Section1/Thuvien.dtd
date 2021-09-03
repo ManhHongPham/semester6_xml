@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT thuvien (cuonsach)>
+<!ELEMENT cuonsach (tensach,soluong,giatien,namxb)>
+<!ELEMENT tensach (#PCDATA)>
+<!ELEMENT soluong (#PCDATA)>
+<!ELEMENT giatien (#PCDATA)>
+<!ELEMENT namxb (#PCDATA)>
+ 

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT congty (nhanvien+)>
+<!ELEMENT nhanvien (hoten,dienthoai,luong,thuong,diachi)>
+<!ELEMENT hoten (#PCDATA)>
+<!ELEMENT dienthoai (#PCDATA)>
+<!ELEMENT luong (#PCDATA)>
+<!ELEMENT thuong (#PCDATA)>
+<!ELEMENT diachi (#PCDATA)>
+<!ATTLIST nhanvien manv CDATA #REQUIRED>
+<!ATTLIST nhanvien gioitinh (nam|nu) "nam">
+
+<!ENTITY hn "Ha noi">
+<!ENTITY hp "Hai phong">
+<!-- <!ATTLIST nhanvien manv CDATA #IMPLIED>
+<!ATTLIST nhanvien manv CDATA "">
+ -->
+
+
+

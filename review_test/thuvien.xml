@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl"  href="thuvien.xslt" ?>
+<DS>
+  <TV  TenTV =" Thư viện Quốc Gia">
+    <NXB MaNXB =" NXB1">
+      <TenNXB>Kim Đồng</TenNXB>
+      <Sach MaSach="S01" SoTrang="190">
+        <TenSach>Dế mèn phiêu lưu kí</TenSach>
+        <TheLoai>Truyện học trò</TheLoai>
+      </Sach>
+
+      <Sach MaSach="S02" SoTrang="300">
+        <TenSach>Kính Vạn Hoa</TenSach>
+        <TheLoai>Văn Học Việt Nam</TheLoai>
+      </Sach>
+
+      <Sach MaSach="S03" SoTrang="100">
+        <TenSach>Thời thơ ấu của các tổng thống Mỹ</TenSach>
+        <TheLoai>Khoa Học</TheLoai>
+      </Sach>
+    </NXB>
+
+    <NXB MaNXB =" NXB2">
+      <TenNXB>Giáo Dục</TenNXB>
+      <Sach MaSach="9081" SoTrang="75">
+        <TenSach>Toán cao cấp</TenSach>
+        <TheLoai>Toán học</TheLoai>
+      </Sach>
+
+      <Sach MaSach="9992" SoTrang="123">
+        <TenSach>Ngữ văn 12</TenSach>
+        <TheLoai>văn học</TheLoai>
+      </Sach>
+      <Sach MaSach="9001" SoTrang="160">
+        <TenSach>Kĩ thuật lập trình C</TenSach>
+        <TheLoai>Khoa học</TheLoai>
+      </Sach>
+    </NXB>
+  </TV>
+
+  <TV  TenTV =" Thư viện Hà Nội">
+    <NXB MaNXB =" NXB3">
+      <TenNXB>Hồng Đức</TenNXB>
+      <Sach MaSach="HD1" SoTrang="125">
+        <TenSach>Kĩ thuật nuôi và chăm sóc ba ba</TenSach>
+        <TheLoai>Khoa học-Kĩ thuật</TheLoai>
+      </Sach>
+      <Sach MaSach="HD2" SoTrang="170">
+        <TenSach>500 câu đố vui</TenSach>
+        <TheLoai>Truyện thiếu nhi</TheLoai>
+      </Sach>
+      <Sach MaSach="HD3" SoTrang="240">
+        <TenSach>Tam quốc diễn nghĩa</TenSach>
+        <TheLoai>Truyện tranh</TheLoai>
+      </Sach>
+    </NXB>
+
+    <NXB MaNXB =" NXB4">
+      <TenNXB>Khoa học xã hội</TenNXB>
+      <Sach MaSach="12ac" SoTrang="210">
+        <TenSach>Cảm xúc tại nơi làm việc</TenSach>
+        <TheLoai>Tâm lí</TheLoai>
+      </Sach>
+      <Sach MaSach="14ad" SoTrang="200">
+        <TenSach>Lịch sử Đông Nam Á</TenSach>
+        <TheLoai>Lịch sử</TheLoai>
+      </Sach>
+      <Sach MaSach="12de" SoTrang="156">
+        <TenSach>Văn học và văn hóa tâm linh</TenSach>
+        <TheLoai>Văn học</TheLoai>
+      </Sach>
+    </NXB>
+  </TV>
+</DS>

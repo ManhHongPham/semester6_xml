@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE congty SYSTEM 'Congty.dtd'>
+<congty>
+    <nhanvien manv="m1" gioitinh="nam">
+        <hoten>Nguyen Thi Anh</hoten>
+        <dienthoai>9876453454</dienthoai>
+        <luong>2000000</luong>
+        <thuong>300000</thuong>  
+        <diachi>&lt;Ha noi &gt;</diachi>      
+    </nhanvien>
+    <nhanvien manv="m2" gioitinh="nam">
+        <hoten>Phan Van Tuan</hoten>
+        <dienthoai>8765987656</dienthoai>
+        <luong>3000000</luong>
+        <thuong>200000</thuong>    
+        <diachi>&hp;</diachi>    
+    </nhanvien>
+</congty> 

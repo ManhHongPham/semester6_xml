@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!ELEMENT thoitiet (thongtin+)>
+<!ELEMENT thongtin (diaphuong,dubao,thoigian)>
+<!ELEMENT diaphuong (tinh,huyen,xa)>
+<!ATTLIST diaphuong matinh ID  #REQUIRED>
+
+<!ELEMENT dubao (nhietdo,luongmua,gio)>
+<!ELEMENT thoigian (thang,tuan,ngay)>
+<!ATTLIST thongtin mabangtin ID  #REQUIRED>
+
+<!ELEMENT tinh (#PCDATA)>
+<!ELEMENT huyen (#PCDATA)>
+<!ELEMENT xa (#PCDATA)>
+
+
+<!ELEMENT nhietdo (#PCDATA)>
+<!ELEMENT luongmua (#PCDATA)>
+<!ELEMENT gio (#PCDATA)>
+
+<!ELEMENT thang (#PCDATA)>
+<!ELEMENT tuan (#PCDATA)>
+<!ELEMENT ngay (#PCDATA)>

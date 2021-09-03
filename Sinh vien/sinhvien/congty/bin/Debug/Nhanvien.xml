@@ -1,0 +1,41 @@
+<thongtin>
+  <nhanvien id="q">
+    <ten>q</ten>
+    <thanhpho>
+      <tenthanhpho>q</tenthanhpho>
+      <pho>q</pho>
+      <quan>q</quan>
+    </thanhpho>
+    <dienthoai>q</dienthoai>
+    <luong>q</luong>
+    <thamnien>q</thamnien>
+    <chucvu>nhân viên</chucvu>
+    <gioitinh>nữ</gioitinh>
+  </nhanvien>
+  <nhanvien id="a12">
+    <ten>phạm hoa</ten>
+    <thanhpho>
+      <tenthanhpho>hải dương</tenthanhpho>
+      <pho>12</pho>
+      <quan>lê hồng phong</quan>
+    </thanhpho>
+    <dienthoai>12121</dienthoai>
+    <luong>2000</luong>
+    <thamnien>2021</thamnien>
+    <chucvu>nhân viên</chucvu>
+    <gioitinh>nam</gioitinh>
+  </nhanvien>
+  <nhanvien id="234f">
+    <ten>hoa</ten>
+    <thanhpho>
+      <tenthanhpho>hn</tenthanhpho>
+      <pho>phạm ngọc thạnh</pho>
+      <quan>ha dong</quan>
+    </thanhpho>
+    <dienthoai>2342</dienthoai>
+    <luong>2342</luong>
+    <thamnien>989</thamnien>
+    <chucvu>nhân viên</chucvu>
+    <gioitinh>nam</gioitinh>
+  </nhanvien>
+</thongtin>

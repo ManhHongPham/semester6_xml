@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE vatlieu SYSTEM 'hoadon.dtd'>
+<vatlieu>
+    <hoadon mahd="ab1"> 
+        <tenkhach gioitinh="nam"> hoang vo van</tenkhach>
+        <diachi>hai duong</diachi>
+        <vatlieu>
+            <tenhang mahang="a12">maytinh</tenhang>
+            <soluong>20</soluong>
+            <dongia>20000</dongia>
+            <thanhtien>400000</thanhtien>
+        </vatlieu>
+        <nguoiban>hoa</nguoiban>
+        <thoitian>
+            <ngay>12</ngay>
+            <thang>3</thang>
+            <nam>2021</nam>
+        </thoitian>
+    </hoadon>
+    <hoadon mahd="ab1">
+        <tenkhach> sdf</tenkhach>
+        <diachi>hai duong</diachi>
+        <vatlieu>
+            <tenhang mahang="a12">maytinh</tenhang>
+            <soluong>20</soluong>
+            <dongia>20000</dongia>
+            <thanhtien>400000</thanhtien>
+        </vatlieu>
+        <vatlieu>
+            <tenhang mahang="a12">maytinh</tenhang>
+            <soluong>20</soluong>
+            <dongia>20000</dongia>
+            <thanhtien>400000</thanhtien>
+        </vatlieu>
+        <vatlieu>
+            <tenhang mahang="a12">maytinh</tenhang>
+            <soluong>20</soluong>
+            <dongia>20000</dongia>
+            <thanhtien>400000</thanhtien>
+        </vatlieu>
+        <nguoiban>hoa</nguoiban>
+        <thoitian>
+            <ngay>12</ngay>
+            <thang>3</thang>
+            <nam>2021</nam>
+        </thoitian>
+    </hoadon>
+</vatlieu>
+
+
+
+

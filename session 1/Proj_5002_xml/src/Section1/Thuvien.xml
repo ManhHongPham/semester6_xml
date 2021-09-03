@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE thuvien SYSTEM 'Thuvien.dtd'>
+<thuvien>
+    <cuonsach>
+        <tensach>Giao trinfh cn xml</tensach>
+        <soluong>350</soluong>
+        <giatien>60000</giatien>
+        <namxb>2016</namxb>        
+    </cuonsach>
+</thuvien>

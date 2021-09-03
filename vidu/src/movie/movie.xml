@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE movies SYSTEM 'movie.dtd'>
+<movies>
+    <movie maphim="a11">
+        <name>superman</name>
+        <information>
+            <country>USA</country>
+            <year>2020</year>
+            <quality>HD</quality>
+            <audio>FULL</audio>
+            <update>2020</update>
+            <otherName>sieu anh hung</otherName>
+            <type>action</type>
+        
+        </information>
+        <description>phimhanh dong</description>
+    </movie>
+    <movie maphim="a12">
+        <name>love</name>
+        <information>
+            <country>USA</country>
+            <year>2019</year>
+            <quality>HD</quality>
+            <audio>FULL</audio>
+            <update>2020</update>
+            <otherName>sieu anh hung</otherName>
+            <type>action</type>
+        </information>
+        <description>phimhanh dong</description>
+    </movie>
+</movies>

@@ -1,0 +1,10 @@
+D:\Haui\extra semester 6\xml technology\online\xml with c#\nhapxuat\use_winform\use_winform\bin\Debug\use_winform.exe.config
+D:\Haui\extra semester 6\xml technology\online\xml with c#\nhapxuat\use_winform\use_winform\bin\Debug\use_winform.exe
+D:\Haui\extra semester 6\xml technology\online\xml with c#\nhapxuat\use_winform\use_winform\bin\Debug\use_winform.pdb
+D:\Haui\extra semester 6\xml technology\online\xml with c#\nhapxuat\use_winform\use_winform\obj\Debug\use_winform.csprojAssemblyReference.cache
+D:\Haui\extra semester 6\xml technology\online\xml with c#\nhapxuat\use_winform\use_winform\obj\Debug\use_winform.a.resources
+D:\Haui\extra semester 6\xml technology\online\xml with c#\nhapxuat\use_winform\use_winform\obj\Debug\use_winform.csproj.GenerateResource.cache
+D:\Haui\extra semester 6\xml technology\online\xml with c#\nhapxuat\use_winform\use_winform\obj\Debug\use_winform.csproj.CoreCompileInputs.cache
+D:\Haui\extra semester 6\xml technology\online\xml with c#\nhapxuat\use_winform\use_winform\obj\Debug\use_winform.exe
+D:\Haui\extra semester 6\xml technology\online\xml with c#\nhapxuat\use_winform\use_winform\obj\Debug\use_winform.pdb
+D:\Haui\extra semester 6\xml technology\online\xml with c#\nhapxuat\use_winform\use_winform\bin\Debug\thongtin.xml

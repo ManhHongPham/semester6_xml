@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ThuVien.xsl"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<DS
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='Thuvien.xsd'>
+    <TV TenTV="tạ quang bửu">
+        <nhaxuatban MaNXB="a1">
+            <tennhaxuatban>giáo dục</tennhaxuatban>
+            <sach masach="b1" sotrang="200">
+                <tensach>vì em đẹp lắm</tensach>
+                <theloai>kinh dị</theloai>
+            </sach>
+            <sach masach="b2" sotrang="500">
+                <tensach>em xinh lắm</tensach>
+                <theloai>kinh dị</theloai>
+            </sach>
+        </nhaxuatban>
+        <nhaxuatban MaNXB="a2">
+            <tennhaxuatban>khoa học xã hội</tennhaxuatban>
+            <sach masach="b3" sotrang="300">
+                <tensach>hoa hồng</tensach>
+                <theloai>viễn tưởng</theloai>
+            </sach>
+        </nhaxuatban>
+    </TV>
+    <TV TenTV="quốc gia">
+        <nhaxuatban MaNXB="a3">
+            <tennhaxuatban>giáo dục</tennhaxuatban>
+            <sach masach="b4" sotrang="400">
+                <tensach>kim hoa </tensach>
+                <theloai>ngôn tình</theloai>
+            </sach>
+        </nhaxuatban>
+    </TV>
+
+</DS>

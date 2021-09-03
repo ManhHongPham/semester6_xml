@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!ELEMENT movies (movie+) >
+<!ELEMENT movie (name,information,description)>
+<!ELEMENT name (#PCDATA)>
+<!ATTLIST movie maphim ID #REQUIRED>
+<!ELEMENT information (country,year,quality,audio,update,otherName,type)>
+<!ELEMENT description (#PCDATA)>
+<!ELEMENT country (#PCDATA)>
+<!ELEMENT year (#PCDATA)>
+<!ELEMENT quality (#PCDATA)>
+<!ELEMENT audio (#PCDATA)>
+<!ELEMENT update (#PCDATA)>
+<!ELEMENT otherName (#PCDATA)>
+<!ELEMENT type (#PCDATA)>
+
+<!--- PCDATA  Về cơ bản được sử dụng cho NGUYÊN NHÂN trong khi CDATA -->
+ <!-- Được sử dụng cho các thuộc tính của XML, tức là ATTLIST -->
+

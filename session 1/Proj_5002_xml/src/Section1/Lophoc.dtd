@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT lophoc (sinhvien)+>      
+
+<!-- tu 1->n -->
+<!-- * tu 0->n ->
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT sinhvien (masv,hoten,tuoi,dienthoai,diachi)>
+<!-- du tat ca cac thong tin-->
+<!-- | co 1 trong cac thong tin-->
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT masv (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT hoten (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT tuoi (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT dienthoai (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT diachi (#PCDATA)>

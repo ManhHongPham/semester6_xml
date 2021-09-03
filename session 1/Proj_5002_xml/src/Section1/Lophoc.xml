@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <!DOCTYPE lophoc SYSTEM "Lophoc.dtd">
+<lophoc>       
+    <sinhvien>
+        <masv>2018452347</masv>
+        <hoten>Nguyen Van Tuan</hoten>
+        <tuoi>22</tuoi>
+        <dienthoai>4782384723</dienthoai>
+        <diachi>Hai phong</diachi>
+    </sinhvien>     
+    <sinhvien>
+        <masv>2018452347</masv>
+        <hoten>Nguyen Van Tuan</hoten>
+        <tuoi>22</tuoi>
+        <dienthoai>4782384723</dienthoai>
+        <diachi>Hai phong</diachi>
+    </sinhvien>      
+</lophoc>
+ 

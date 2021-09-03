@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<information>
+	<student sid="s01">
+		<name>nguyễn thị thùy</name>
+		<age>21</age>
+		<address>bắc ninh</address>
+	</student>
+	<student sid="s02">
+		<name>nguyễn thị thùy linh </name>
+		<age>21</age>
+		<address>quản ninh</address>
+	</student>
+</information>

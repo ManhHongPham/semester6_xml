@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<cuahang>
+	<sanpham masp="s01">
+		
+		<tensp> banh my</tensp>
+		<soluong>200</soluong>
+		<giatien>5000</giatien>
+	</sanpham>
+	<sanpham masp="s02">
+
+		<tensp> sua </tensp>
+		<soluong>20</soluong>
+		<giatien>10000</giatien>
+	</sanpham>
+
+</cuahang>
+<!--node có nhiều kiểu, áp dụng riêng cho từng cái-->

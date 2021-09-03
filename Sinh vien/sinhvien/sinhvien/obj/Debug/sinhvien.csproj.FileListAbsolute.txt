@@ -1,0 +1,10 @@
+D:\Haui\extra semester 6\xml technology\online\xml with c#\Sinh vien\sinhvien\sinhvien\bin\Debug\sinhvien.exe.config
+D:\Haui\extra semester 6\xml technology\online\xml with c#\Sinh vien\sinhvien\sinhvien\bin\Debug\sinhvien.exe
+D:\Haui\extra semester 6\xml technology\online\xml with c#\Sinh vien\sinhvien\sinhvien\bin\Debug\sinhvien.pdb
+D:\Haui\extra semester 6\xml technology\online\xml with c#\Sinh vien\sinhvien\sinhvien\obj\Debug\sinhvien.csprojAssemblyReference.cache
+D:\Haui\extra semester 6\xml technology\online\xml with c#\Sinh vien\sinhvien\sinhvien\obj\Debug\sinhvien.Form1.resources
+D:\Haui\extra semester 6\xml technology\online\xml with c#\Sinh vien\sinhvien\sinhvien\obj\Debug\sinhvien.Properties.Resources.resources
+D:\Haui\extra semester 6\xml technology\online\xml with c#\Sinh vien\sinhvien\sinhvien\obj\Debug\sinhvien.csproj.GenerateResource.cache
+D:\Haui\extra semester 6\xml technology\online\xml with c#\Sinh vien\sinhvien\sinhvien\obj\Debug\sinhvien.csproj.CoreCompileInputs.cache
+D:\Haui\extra semester 6\xml technology\online\xml with c#\Sinh vien\sinhvien\sinhvien\obj\Debug\sinhvien.exe
+D:\Haui\extra semester 6\xml technology\online\xml with c#\Sinh vien\sinhvien\sinhvien\obj\Debug\sinhvien.pdb

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE thoitiet SYSTEM 'thoitiet.dtd'>
+<thoitiet>
+    <thongtin mabangtin="a1">
+        <diaphuong matinh="a">
+            <tinh> hanoi</tinh>
+            <huyen> danphuon</huyen>
+            <xa> hoa van</xa>
+        </diaphuong>
+        <dubao>
+            <nhietdo> 40</nhietdo>
+            <luongmua>3%</luongmua>
+            <gio>10km/h</gio>
+        </dubao>
+        <thoigian>
+            <thang>6</thang>
+            <tuan>12</tuan>
+            <ngay>4</ngay>
+        </thoigian>
+    </thongtin>
+    <thongtin mabangtin="a2">
+        <diaphuong matinh="b">
+            <tinh> nghean</tinh>
+            <huyen> sd</huyen>
+            <xa> cam sd</xa>
+        </diaphuong>
+        <dubao>
+            <nhietdo> 40</nhietdo>
+            <luongmua>3%</luongmua>
+            <gio>10km/h</gio>
+        </dubao>
+        <thoigian>
+            <thang>6</thang>
+            <tuan>12</tuan>
+            <ngay>4</ngay>
+        </thoigian>
+    </thongtin>
+</thoitiet>

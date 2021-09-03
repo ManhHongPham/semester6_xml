@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT vatlieu (hoadon+|tenhang|soluong|dongia|thanhtien)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT hoadon (tenkhach|diachi|chitiet|nguoiban|thoitian|vatlieu)*>
+<!ATTLIST hoadon mahd CDATA #REQUIRED >
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT tenkhach (#PCDATA)>
+<!ATTLIST tenkhach gioitinh CDATA #IMPLIED>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT diachi (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT chitiet (tenhang|soluong|dongia|thanhtien)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT tenhang (#PCDATA)>
+<!ATTLIST tenhang mahang CDATA #REQUIRED>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT soluong (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT dongia (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT thanhtien (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT nguoiban (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT thoitian (ngay|thang|nam)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT ngay (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT thang (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT nam (#PCDATA)>

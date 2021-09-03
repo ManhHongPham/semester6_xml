@@ -1,0 +1,17 @@
+<course>
+  <student id="a11">
+    <name>hoàng thị trang</name>
+    <age>21</age>
+    <city>hải dương</city>
+  </student>
+  <student id="a10">
+    <name>phạm hồng mạnh</name>
+    <age>21</age>
+    <city>hải dương</city>
+  </student>
+  <student id="a13">
+    <name>nguyễn thi thùy</name>
+    <age>21</age>
+    <city>bắc ninh</city>
+  </student>
+</course>

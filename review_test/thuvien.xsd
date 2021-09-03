@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="thuvien"
+           targetNamespace="http://tempuri.org/thuvien.xsd"
+           elementFormDefault="qualified"
+           xmlns="http://tempuri.org/thuvien.xsd"
+           xmlns:mstns="http://tempuri.org/thuvien.xsd"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+    <xs:element name="DS">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="ThuVien" maxOccurs="3">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="NXB" maxOccurs="8">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="TenNXB">
+                                            <xs:simpleType>
+                                                <xs:restriction base="xs:string">
+                                                    <xs:enumeration value="Kim Đồng"></xs:enumeration>
+                                                    <xs:enumeration value="Khoa Học Xã Hội"></xs:enumeration>
+                                                    <xs:enumeration value="Giáo Dục"></xs:enumeration>
+                                                </xs:restriction>
+                                            </xs:simpleType>
+                                        </xs:element>
+                                        <xs:element name="Sach" maxOccurs="unbounded">
+                                            <xs:complexType>
+                                                <xs:sequence>
+                                                    <xs:element name="TenSach" type="xs:string"></xs:element>
+                                                    <xs:element name="SoTrang">
+                                                        <xs:simpleType>
+                                                            <xs:restriction base="xs:int">
+                                                                <xs:minInclusive value="30"></xs:minInclusive>
+                                                                <xs:maxInclusive value="500"></xs:maxInclusive>
+                                                            </xs:restriction>
+                                                        </xs:simpleType>
+                                                    </xs:element>
+                                                </xs:sequence>
+                                                <xs:attribute name="MaSach">
+                                                    <xs:simpleType>
+                                                        <xs:restriction base="xs:ID">
+                                                            <xs:maxLength value="7"></xs:maxLength>
+                                                        </xs:restriction>
+                                                    </xs:simpleType>
+                                                </xs:attribute>
+                                                <xs:attribute name="TheLoai" type="xs:string"></xs:attribute>
+                                            </xs:complexType>
+                                        </xs:element>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                        <xs:attribute name="TenTV" type="xs:string"></xs:attribute>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>
